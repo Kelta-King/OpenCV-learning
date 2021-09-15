@@ -1,2 +1,2 @@
 # OpenCV-learning
-samp,e codes for open cv learning
+sample codes for open cv learning
